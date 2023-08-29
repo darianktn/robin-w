@@ -231,6 +231,7 @@ body {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+	gap: 24px;
 }
 
 .experience__item::before {
