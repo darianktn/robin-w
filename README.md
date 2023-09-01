@@ -1,6 +1,11 @@
 # robin-w
 
 This repository contains my pet-project for portfolio.
+The layout and styles are completed.
+Adaptability is being developed.
+
+## About the project
+
 This project is the site of a certain Robin W, an Italian product designer.
 The site has sections:
 - Robin's work experience;
@@ -18,17 +23,13 @@ The site is cross-browser.
 
 ## Live demo
 
-(_coming soon_)
+https://darianktn.github.io/robin-w/
 
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - Git
-
-## Screenshots
-
-(_coming soon_)
 
 ## Design Source
 The design layout for this project was sourced from [verstaem.online](https://verstaem.online/), a platform providing free design templates for practice and portfolio purposes.
