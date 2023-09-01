@@ -1,23 +1,22 @@
 # robin-w
 
+Данный репозиторий содержит мой пет-проект для портфолио. Выполнены верстка и стилизация. Адаптив разрабатывается.
+
 This repository contains my pet-project for portfolio.
 The layout and styles are completed.
 Adaptability is being developed.
 
-## About the project
+## О проекте / About the project
+
+Этот проект - сайт некоего Робина В, итальянского продуктового дизайнера.
+
+На сайте есть табы для переключения контента, написанные на JavaScript, а также и ховер-эффекты.
+
+Сайт кроссбраузерный.
 
 This project is the site of a certain Robin W, an Italian product designer.
-The site has sections:
-- Robin's work experience;
-- his philosophy and values;
-- skill set;
-- portfolio;
-- links to social networks;
-- colleagues' reviews;
-- photos from different countries;
-- form to contact Robert.
 
-Also there are javascript tabs and hover-effects on the site.
+There are JavaScript tabs and hover-effects on the site.
 
 The site is cross-browser.
 
@@ -25,14 +24,23 @@ The site is cross-browser.
 
 https://darianktn.github.io/robin-w/
 
-## Technologies Used
+## Использованные технологии / Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - Git
 
-## Design Source
-The design layout for this project was sourced from [verstaem.online](https://verstaem.online/), a platform providing free design templates for practice and portfolio purposes.
+## Источник макета / Design Source
 
-## Contact Information
-For any message you can email me: lzarus37th@yandex.ru
+Макет для верстки взят с платформы с бесплатными макетами для отработки навыков и пополнения порфтолио.
+
+The design layout for this project was sourced the platform providing free design templates for practice and portfolio purposes.
+
+[verstaem.online](https://verstaem.online/)
+
+## Контактная информация / Contact Information
+По любому вопросу вы можете написать мне на почту 
+
+For any message you can email me
+
+lazarus37th@yandex.ru
