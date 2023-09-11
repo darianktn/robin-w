@@ -68,7 +68,7 @@ body {
 .container {
 	padding: 0 72px;
 	margin: 0 auto;
-	width: 1296px;
+	max-width: 1296px;
 }
 
 .list-reset {
@@ -82,6 +82,7 @@ body {
 	border: none;
 	background-color: transparent;
 	cursor: pointer;
+	outline: none;
 }
 
 .section-title {
@@ -185,6 +186,7 @@ body {
 
 .hero__text-wrap {
 	position: absolute;
+	padding-right: 40px;
 	top: 25%;
 	left: 43%;
 }
@@ -853,6 +855,7 @@ body {
 .contact-content {
 	display: -ms-grid;
 	display: grid;
+	gap: 25px;
 	-ms-grid-columns: 1fr 1fr;
 	grid-template-columns: repeat(2, 1fr);
 }
@@ -922,6 +925,7 @@ input[type='text'] {
 .contact__input:focus,
 .contact__textarea:focus {
 	outline: 1px solid var(--primary);
+	background-color: var(--level-1);
 }
 
 .contact__input:hover,

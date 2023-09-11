@@ -1,0 +1,10 @@
+@media (max-width: 1440px) {
+	.skillset__wrap {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.skillset__descr {
+		width: 68%;
+	}
+}
